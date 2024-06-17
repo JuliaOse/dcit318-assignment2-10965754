@@ -1,0 +1,14 @@
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/bin/Debug/net8.0/InheritancePrj
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/bin/Debug/net8.0/InheritancePrj.deps.json
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/bin/Debug/net8.0/InheritancePrj.runtimeconfig.json
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/bin/Debug/net8.0/InheritancePrj.dll
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/bin/Debug/net8.0/InheritancePrj.pdb
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.AssemblyInfoInputs.cache
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.AssemblyInfo.cs
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.csproj.CoreCompileInputs.cache
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.dll
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/refint/InheritancePrj.dll
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.pdb
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/InheritancePrj.genruntimeconfig.cache
+/Users/jules/Documents/codes/InheritancePrj/InheritancePrj/obj/Debug/net8.0/ref/InheritancePrj.dll
