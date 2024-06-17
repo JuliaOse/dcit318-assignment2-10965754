@@ -1,0 +1,14 @@
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/bin/Debug/net8.0/AbstractOop
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/bin/Debug/net8.0/AbstractOop.deps.json
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/bin/Debug/net8.0/AbstractOop.runtimeconfig.json
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/bin/Debug/net8.0/AbstractOop.dll
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/bin/Debug/net8.0/AbstractOop.pdb
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.AssemblyInfoInputs.cache
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.AssemblyInfo.cs
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.csproj.CoreCompileInputs.cache
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.dll
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/refint/AbstractOop.dll
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.pdb
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/AbstractOop.genruntimeconfig.cache
+/Users/jules/Documents/codes/AbstractOop/AbstractOop/obj/Debug/net8.0/ref/AbstractOop.dll
